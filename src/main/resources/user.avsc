@@ -1,0 +1,19 @@
+{
+   "namespace": "example.avro",
+   "type": "record",
+   "name": "Person",
+   "fields": [
+        {
+            "name": "name",
+            "type": "string"
+         },
+        {
+             "name": "idcard",
+             "type": "string"
+        },
+        {
+             "name": "age",
+             "type": "int"
+        }
+   ]
+}
